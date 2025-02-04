@@ -21,5 +21,6 @@ The values are clipped between 0 and 100 to ensure realistic age values.
 **6.Histogram Plot:**
 Visualizes the distribution of continuous age data.
 Uses 20 bins and custom colors for better visualization.
+
 **Key Objective:**
 To demonstrate how to visualize categorical (bar plot) and continuous (histogram) variables in population data using custom datasets.
